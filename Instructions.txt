@@ -1,0 +1,15 @@
+#To activate the venv environment, from COMMAND PROMPT (Not powershell) navigate to the venv folder and run the command Scripts activate
+
+Navigate to folders by typing cd "*name of file path*" in quotations
+cd..  to go down one directory 
+
+type Scripts\activate ? to deactivate environment?
+
+Mt Python Anywhere API token: dfac03a1cafdf21642fefc68e95d31b7bcb40448
+
+Remember to run python manage.py runserver in the console to run the web server.
+
+Log In for the Blog:
+kdall
+email: kdalli01@gmail.com
+pw: Jeffersonville1!
