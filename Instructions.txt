@@ -1,15 +1,44 @@
-#To activate the venv environment, from COMMAND PROMPT (Not powershell) navigate to the venv folder and run the command Scripts activate
+To Complete:
+--Deploy
+-----
+--Django URLS
+We want 'http://127.0.0.1:8000/' to be the home page of our blog and to display a list of posts.
+-----
+--Django Views - time to create!
+
+-----
+
+
+--Introduction to HTML
+
+-----
+Django ORM
+
+-----
+
+#To activate the venv environment, from COMMAND PROMPT (Not powershell) navigate to the venv folder and run the command "Users\kdall\Desktop\IvyTech Course Files\SDEV 220 Python\djangogirls\myvenv"   Scripts\activate
 
 Navigate to folders by typing cd "*name of file path*" in quotations
 cd..  to go down one directory 
 
-type Scripts\activate ? to deactivate environment?
+type Scripts\deactivate ? to deactivate environment?
 
 Mt Python Anywhere API token: dfac03a1cafdf21642fefc68e95d31b7bcb40448
 
 Remember to run python manage.py runserver in the console to run the web server.
 
 Log In for the Blog:
-kdall
+kdall or kdalli01
 email: kdalli01@gmail.com
 pw: Jeffersonville1!
+
+Python Anywhere Superuser Credentials:
+
+un: kdalli01
+email: kdalli01@gmail.com
+pw: Jeffersonville1!
+
+My python anywhere domain to insert in the Bash console for commands: kdalli01
+
+Website HTTP Link for blog: https://kdalli01.pythonanywhere.com
+
